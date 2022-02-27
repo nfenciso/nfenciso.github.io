@@ -1,0 +1,25 @@
+body {
+    background-color: #333333;
+    font-size: 14pt;
+    font-family: monospace;
+    color: #454845;
+}
+
+.label {
+    color: #111;
+    font-weight: bold;
+}
+
+div {
+    background-color: white;
+    border-radius: 20px;
+    padding: 40px;
+    max-width: 500px;
+    margin: 0 auto;
+    margin-top: 35px;
+}
+
+hr {
+    background-color: black;
+    border: 1px solid black;
+}
