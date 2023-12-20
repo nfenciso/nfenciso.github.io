@@ -20,8 +20,8 @@ body {
 }
 
 
-/* @media screen 
-  and (min-device-width: 769px) { */
+@media screen 
+  and (min-device-width: 769px) {
     #blob {
         background-color: white;
         height: 34vmax;
@@ -35,7 +35,7 @@ body {
         animation: rotate 20s infinite;
         opacity: 0.8;
     }
-/* } */
+}
 
 #blur {
     height: 100%;
